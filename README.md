@@ -19,6 +19,12 @@ Going through the lessons on The Odin Project, I acquired the following HTML ski
 - How to create ordered and unordered lists
 - How to write better commit messages
 
+## Problems Encountered & My Solutions:
+
+Over the course of doing this project, there were a few issues I ran into. Here is how I solved those issues.
+
+**Fractions in the ingredients:** Since this project was supposed to be a recipe website, I needed to list ingredients. For example 1 1/2. I wasn't happy with the way HTML output this. So I went to [this](https://stackoverflow.com/questions/7525977/how-to-write-fraction-value-using-html) post and read through the comments.
+
 ## Tools Used:
 
 Throughout this project, I used the following tools:
@@ -26,4 +32,5 @@ Throughout this project, I used the following tools:
 - [The Odin Project](https://www.theodinproject.com)
 - VS Code
 - Linux Terminal & Git
+- Xubuntu Linux and VMWare Workstation 17
 - Photoshop
