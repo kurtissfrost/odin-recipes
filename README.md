@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/Dc42B1a.png"></p>
+
 # HTML Foundations Project: Recipes
 
 [![Created Using - HTML5](https://img.shields.io/badge/Created_Using-HTML5-E34F26?logo=html5&logoColor=ffffff)](https://) [![Created Using - Visual Studio Code](https://img.shields.io/badge/Created_Using-Visual_Studio_Code-007ACC?logo=visual+studio+code&logoColor=ffffff)](https://) [![Created Using - Xubuntu Linux](https://img.shields.io/badge/Created_Using-Xubuntu_Linux-FCC624?logo=Linux&logoColor=ffffff)](https://https://www.theodinproject.com/)
