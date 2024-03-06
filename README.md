@@ -27,6 +27,8 @@ Over the course of doing this project, there were a few issues I ran into. Here 
 
 **Fractions in the ingredients:** Since this project was supposed to be a recipe website, I needed to list ingredients. For example 1 1/2. I wasn't happy with the way HTML output this if I just entered it. So I went to [this](https://stackoverflow.com/questions/7525977/how-to-write-fraction-value-using-html) post and read through the comments and was able to get the fractions formatted in a more traditional way.
 
+**Styling Lists in CSS:** Since every list starts with either `uo` or `ol` followed by `li` I wanted to be able to style every item in the list without having to use `class="text"` for every `li` element. So I used [this](https://www.w3schools.com/css/css_list.asp) guide to do a little bit more research into how to style list using CSS.
+
 ## Tools Used:
 
 Throughout this project, I used the following tools:
@@ -36,3 +38,25 @@ Throughout this project, I used the following tools:
 - Linux Terminal & Git
 - Xubuntu Linux and VMWare Workstation 17
 - Photoshop
+
+## Updates:
+
+### 3/5/24:
+
+In the odin project CSS lesson, ["The Cascade of CSS"](https://www.theodinproject.com/lessons/foundations-the-cascade), the assignment was to come back and style the basic HTML site with some CSS. I used a few different styles to try and get some practice.
+
+> ```lang-CSS
+> .bg_color {
+> 	background-color: #222222;
+> }
+>
+> .text {
+> 	color: white;
+> 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+> }
+>
+> li {
+> 	color: white;
+> 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+> }
+> ```
