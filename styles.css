@@ -11,3 +11,62 @@
 	color: white;
 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+
+.su {
+	float: left;
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin: 8px;
+}
+
+.do {
+	float: left;
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin: 8px;
+}
+
+.drink {
+	float: left;
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin: 8px;
+}
+
+.view {
+	position: absolute;
+	color: black;
+	background-color: orange;
+}
+
+.bc {
+	position: absolute;
+	margin: 80px;
+	margin-top: 160px;
+}
+
+.bc1 {
+	position: absolute;
+	margin: 80px;
+	margin-left: 300px;
+	margin-top: 160px;
+}
+
+.bc2 {
+	position: absolute;
+	margin: 80px;
+	margin-left: 510px;
+	margin-top: 160px;
+}
+
+.center {
+	margin: auto;
+	width: 55%;
+	padding: 120px;
+}
