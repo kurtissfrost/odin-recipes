@@ -60,3 +60,7 @@ In the odin project CSS lesson, ["The Cascade of CSS"](https://www.theodinprojec
 > 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 > }
 > ```
+
+### 3/12/24:
+
+Added more CSS styling to the page. Experimenting with padding, margin, block and inline.
